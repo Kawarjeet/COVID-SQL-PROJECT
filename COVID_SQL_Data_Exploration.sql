@@ -4,7 +4,7 @@ order by 3,4
 
 --selecting  data that we are going to use in our project
 select location, date, total_cases, new_cases, total_deaths, population
-from PortfolioProject..CovidDeaths -- we could have also used PortfolioProject.dbo.CovidDeaths
+from PortfolioProject..CovidDeaths -- we could have also used PortfolioProject.dbo.CovidDeaths ; dbo stands for database owner is a microsoft schema
 order by location, date --sorts data in ascending order first by location and if the location is same then sorts by date in ascending order.
 
 --Looking at Total cases vs Total Deaths in terms of percentage
