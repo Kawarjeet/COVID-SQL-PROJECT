@@ -6,7 +6,7 @@ The 4 sub projects are as follows:
    - Data Exploration carried out on two datasets, namely, CovidDeaths and CovidVaccinations. 
 3) Tableau Visualization
    - Visualization Dashboard Link: https://public.tableau.com/views/CovidStatisticsDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-5) Data Cleaning
+
 
 
 Code written in Microsoft SQL Server Management Studio.
